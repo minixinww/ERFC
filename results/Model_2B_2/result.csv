@@ -1,0 +1,10 @@
+Reaction,pred_label,pred_prob
+C[C@@H]1O[C@@H](O[C@H]2[C@H](O[C@H]3[C@H](O[C@H]4O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]4O)[C@@H](O)[C@H](O)O[C@@H]3CO)O[C@H](CO)[C@H](Oc3ccc(O)cc3)[C@@H]2O)[C@@H](O)[C@H](O)[C@@H]1O>>C[C@@H]1O[C@@H](O[C@H]2[C@H](O[C@H]3[C@H](O[C@H]4O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]4O)[C@@H](O)[C@H](O)O[C@@H]3CO)O[C@H](CO)[C@H](O)[C@@H]2O)[C@@H](O)[C@H](O)[C@@H]1O,0,0.015378721989691257
+C[C@H](NC(=O)OC(C)(C)C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(=O)O)C(=O)Nc1ccc([N+](=O)[O-])cc1>>Nc1ccc([N+](=O)[O-])cc1,1,0.997169554233551
+C[C@@H]1O[C@H](O)[C@@H](O)[C@H](OC2OC(CO)C(OC3OC(CO)C(O)C(O)C3O)C(O)C2O)[C@@H]1O>>C[C@@H]1O[C@H](O)[C@@H](O)[C@H](O)[C@@H]1O,0,0.045357976108789444
+CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)O)OC(=O)CCCCCCCCCc1ccc2ccc3cccc4ccc1c2c34>>O=C(O)CCCCCCCCCc1ccc2ccc3cccc4ccc1c2c34,0,0.2740851640701294
+O=c1c(O)c(-c2ccccc2)oc2cc(O)cc(O)c12>>O=C1c2c(O)cc(O)cc2O[C@H](c2ccccc2)[C@H]1O,1,0.9512249231338501
+O=C(CO)N[C@H]1[C@H]([C@@H](O)[C@@H](O)CO)O[C@@](OC[C@H]2OC(O)[C@H](OC3OC(C(=O)O)C(O)C(O)C3OC3OC(C(=O)O)C(O)C(O)C3O)[C@@H](O)[C@H]2O)(C(=O)O)C[C@@H]1O>>O=C(CO)N[C@H]1[C@H]([C@@H](O)[C@@H](O)CO)O[C@@](OC[C@H]2OC(O)[C@H](O)[C@@H](O)[C@H]2O)(C(=O)O)C[C@@H]1O,0,0.2103578895330429
+NC(N)=NOCC[C@H](N)C(=O)O>>N[C@@H](CCO)C(=O)O,0,0.020490795373916626
+CC(=O)N[C@H]1[C@@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@H](Oc3ccc([N+](=O)[O-])cc3)[C@@H]2NC(=O)CC(=O)C(C)=CC(=O)O)O[C@H](CO)[C@@H](O)[C@@H]1O>>CC(=O)N[C@H]1[C@@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@H](Oc3ccc([N+](=O)[O-])cc3)[C@@H]2NC(C)=O)O[C@H](CO)[C@@H](O)[C@@H]1O,0,1.2771959518431686e-05
+CSCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)CCC(=O)O)C(=O)Nc1ccc2c(C)cc(=O)oc2c1.O>>CSCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)CCC(=O)O)C(=O)O,1,0.9946224689483643
