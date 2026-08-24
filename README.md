@@ -2,7 +2,7 @@
 
 ## Enzymatic Reaction Feasibility Classification
 
-We developed a consensus model named Enzymatic Reaction Feasibility Classification (Consensus_ERFC) by averaging the predictions from four individual models: Model 1A-M (c_ECFP4-XGBoost), 2A-M (RXNFP-XGBoost), 3B-M (DRFP-DNN), and 4B-M (SMILES-based ChemMLM). This model is capable of handling both stereochemistry-preserving and stereochemistry-agnostic reactions, enabling the efficient and rapid screening of large-scale biosynthetic reactions
+We developed a consensus model named Enzymatic Reaction Feasibility Classification (ERFC) by averaging the predictions from four individual models: Model 1A-M (c_ECFP4-XGBoost), 2A-M (RXNFP-XGBoost), 3B-M (DRFP-DNN), and 4B-M (SMILES-based ChemMLM). This model is capable of handling both stereochemistry-preserving and stereochemistry-agnostic reactions, enabling the efficient and rapid screening of large-scale biosynthetic reactions
 
 ## Workflow
 
